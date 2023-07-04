@@ -1,2 +1,0 @@
-# IntroduccionJava
-Proyecto Introduccion Java
